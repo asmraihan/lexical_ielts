@@ -1,0 +1,358 @@
+{
+    "wordCount": 63,
+    "words": [
+      {
+        "word": "Amorphous",
+        "translation": "নিদিষ্ট আকারহীন"
+      },
+      {
+        "word": "Briskly",
+        "translation": "দ্রুতভাবে"
+      },
+      {
+        "word": "Chip",
+        "translation": "কালি করা"
+      },
+      {
+        "word": "Contemporary",
+        "translation": "সমসাময়িক"
+      },
+      {
+        "word": "Flint",
+        "translation": "আগুন ধরানোর পাথর"
+      },
+      {
+        "word": "Necrosis",
+        "translation": "ক্যান্সার"
+      },
+      {
+        "word": "Percussion",
+        "translation": "দুটি থালার আঘাতের শব্দ"
+      },
+      {
+        "word": "Pyrites",
+        "translation": "তামা কিংবা লোহার সালফাইড"
+      },
+      {
+        "word": "Shilling",
+        "translation": "ব্রিটিশ মুদ্রা পাউন্ডের ২০ ভাগের ১ ভাগ"
+      },
+      {
+        "word": "Smolder",
+        "translation": "আগুন ছড়ানো"
+      },
+      {
+        "word": "Splint",
+        "translation": "ভাঙ্গা হাড় যথাস্থানে আটকে রাখার জন্য হাত,পা সাথে বেঁধে দেয়া কাঠের পাত"
+      },
+      {
+        "word": "Censure",
+        "translation": "অবজ্ঞা করা"
+      },
+      {
+        "word": "Criterion",
+        "translation": "বিচারের মানদন্ড"
+      },
+      {
+        "word": "Dubious",
+        "translation": "সন্দেহজনক"
+      },
+      {
+        "word": "Extol",
+        "translation": "উচ্চ প্রশংসা করা"
+      },
+      {
+        "word": "Extortion",
+        "translation": "চাঁদাবাজি"
+      },
+      {
+        "word": "Isle",
+        "translation": "দ্বীপ"
+      },
+      {
+        "word": "Persuade",
+        "translation": "বোঝানো"
+      },
+      {
+        "word": "Premise",
+        "translation": "প্রতিজ্ঞা"
+      },
+      {
+        "word": "Repudiate",
+        "translation": "প্রত্যাখ্যান করা"
+      },
+      {
+        "word": "Squabble",
+        "translation": "ঝগড়া"
+      },
+      {
+        "word": "Vulnerable",
+        "translation": "ভেদ্য"
+      },
+      {
+        "word": "Beneficiary",
+        "translation": "উত্তরাধিকার বলে সম্পদ লাভ করা"
+      },
+      {
+        "word": "Bespectacled",
+        "translation": "চশমা পরা অবস্থায়"
+      },
+      {
+        "word": "Corpus",
+        "translation": "দেহ"
+      },
+      {
+        "word": "Crop up",
+        "translation": "উদয় হওয়া"
+      },
+      {
+        "word": "Intuitively",
+        "translation": "সহজজ্ঞানবলে"
+      },
+      {
+        "word": "Lexicographer",
+        "translation": "অভিধান রচয়িতা"
+      },
+      {
+        "word": "Nuance",
+        "translation": "মতামত"
+      },
+      {
+        "word": "Sift",
+        "translation": "খুঁটিয়ে পরীক্ষা করা"
+      },
+      {
+        "word": "Tome",
+        "translation": "ভারী বই"
+      },
+      {
+        "word": "Vernacular",
+        "translation": "দেশী"
+      },
+      {
+        "word": "Leaded",
+        "translation": "ব্যক্তিতান্ত্রিক"
+      },
+      {
+        "word": "Mainsonette",
+        "translation": "সীসার পাত দ্বারা দৃঢ়ভাবে আবদ্ধ ছোত বাড়ি বিশেষ"
+      },
+      {
+        "word": "Mound",
+        "translation": "টিলা"
+      },
+      {
+        "word": "Subterranean",
+        "translation": "মাটির নীচে"
+      },
+      {
+        "word": "Suburbia",
+        "translation": "উপনাগরিক জীবনযাত্রা"
+      },
+      {
+        "word": "Terrace",
+        "translation": "সারিবদ্ধ করে বানানো"
+      },
+      {
+        "word": "Terror",
+        "translation": "দর্শক গ্যালারি"
+      },
+      {
+        "word": "Thistle",
+        "translation": "কাঁটালতা"
+      },
+      {
+        "word": "Arable",
+        "translation": "চাষযোগ্য জমি"
+      },
+      {
+        "word": "Contingency",
+        "translation": "আকস্মিকতা"
+      },
+      {
+        "word": "Incentive",
+        "translation": "যা উৎসাহিত করে"
+      },
+      {
+        "word": "Notoriety",
+        "translation": "অখ্যাতি"
+      },
+      {
+        "word": "Pasture",
+        "translation": "পশুচারন ভূমি"
+      },
+      {
+        "word": "Quirk",
+        "translation": "কাকতালীয় ব্যঙ্গ"
+      },
+      {
+        "word": "Redundancy",
+        "translation": "বাহুল্য"
+      },
+      {
+        "word": "Skew",
+        "translation": "বাঁকানো"
+      },
+      {
+        "word": "Stagnate",
+        "translation": "স্থির থাকা"
+      },
+      {
+        "word": "Bead",
+        "translation": "তসবি"
+      },
+      {
+        "word": "Exorbitant",
+        "translation": "অত্যাধিক"
+      },
+      {
+        "word": "Opaque",
+        "translation": "আলো নেরোধক"
+      },
+      {
+        "word": "Plunge",
+        "translation": "ঢুকিয়ে দেয়া"
+      },
+      {
+        "word": "Puff",
+        "translation": "জোরে নিঃশ্বাস ফেলা"
+      },
+      {
+        "word": "Sag",
+        "translation": "বেকে যাওয়া"
+      },
+      {
+        "word": "Adhere",
+        "translation": "লেগেথাকা"
+      },
+      {
+        "word": "Consultancy",
+        "translation": "বাস্তব কোন ব্যক্তি ঘটনা সম্পর্কে সংক্ষিপ্ত"
+      },
+      {
+        "word": "Counterpart",
+        "translation": "পরামর্শ বা জ্ঞান দাতা"
+      },
+      {
+        "word": "Delayer",
+        "translation": "কোন ব্যক্তি বা জিনিসের সঙ্গে হুবহু মিল আছে এমন ব্যক্তি বা জিনিস"
+      },
+      {
+        "word": "Executive",
+        "translation": "দেরি"
+      },
+      {
+        "word": "Hurdle",
+        "translation": "নির্বাহী কর্মকর্তা"
+      },
+      {
+        "word": "Recession",
+        "translation": "ব্যবসা শিল্পোৎপাদনে শ্লথ গতি"
+      },
+      {
+        "word": "Arboreal",
+        "translation": "বৃক্ষ সম্পর্কিত"
+      },
+      {
+        "word": "Assess",
+        "translation": "মূল্য নির্ধারণ"
+      },
+      {
+        "word": "Marsupial",
+        "translation": "জনসংখ্যাতত্ত্ব বিষয়"
+      },
+      {
+        "word": "Alluvial",
+        "translation": "থলিস"
+      },
+      {
+        "word": "Bolster",
+        "translation": "আধার করা"
+      },
+      {
+        "word": "Breakneck pace",
+        "translation": "অত্যন্ত দ্রুত গতি"
+      },
+      {
+        "word": "Brunt",
+        "translation": "প্রধান আঘাত"
+      },
+      {
+        "word": "Buckle",
+        "translation": "বাঁধা"
+      },
+      {
+        "word": "Consortium",
+        "translation": "সংস্থা"
+      },
+      {
+        "word": "Dredge",
+        "translation": "গাড়ল মাছ ধরার যন্ত্র"
+      },
+      {
+        "word": "Dredger",
+        "translation": "গাড়ল মাছ ধরার ব্যক্তি"
+      },
+      {
+        "word": "Ooze",
+        "translation": "আস্থিপাতি"
+      },
+      {
+        "word": "Opt",
+        "translation": "উপযুক্ত করা"
+      },
+      {
+        "word": "Outcrop",
+        "translation": "উভয়পাশের নির্দেশ"
+      },
+      {
+        "word": "Swir",
+        "translation": "পার্বত্য"
+      },
+      {
+        "word": "Tusk",
+        "translation": "হাতির দাঁত"
+      },
+      {
+        "word": "Unyiclding",
+        "translation": "কঠোর"
+      },
+      {
+        "word": "Wedge",
+        "translation": "ছেকট"
+      },
+      {
+        "word": "Alienation",
+        "translation": "বিদেশীকরণ"
+      },
+      {
+        "word": "Charter",
+        "translation": "পত্রপত্রিকা"
+      },
+      {
+        "word": "Holistically",
+        "translation": "সমগ্রতামূলকভাবে"
+      },
+      {
+        "word": "Individualistic",
+        "translation": "স্বতন্ত্রমত"
+      },
+      {
+        "word": "Orient",
+        "translation": "অরিয়েন্ট"
+      },
+      {
+        "word": "Analogous",
+        "translation": "উপমান"
+      },
+      {
+        "word": "Menely",
+        "translation": "মোহনলালের"
+      },
+      {
+        "word": "Perplex",
+        "translation": "হতবুদ্ধি করা"
+      }
+    ]
+  }
+  
