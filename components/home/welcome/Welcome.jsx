@@ -13,7 +13,28 @@ import { icons,SIZES } from '../../../constants'
 const Welcome = () => {
   return (
     <View>
-      <Text>Welcome to, Lexical IELTS</Text>
+   <View
+   style={styles.container}
+   >
+       <Text style={styles.userName}>Welcome to, Lexical IELTS</Text>
+       <Text style={styles.welcomeMessage}>Find your word</Text>
+   </View>
+    <View style={styles.searchContainer}>
+      <View style={styles.searchWrapper}>
+        <TextInput
+        style={styles.searchInput}
+        value=''
+        onChange={()=>{}}
+        placeholder='Search by typing...'
+        />
+      </View>
+      <TouchableOpacity style={styles.searchBtn} onPress={()=> {}}>
+    <Image source={icons.search}
+    resizeMode='contain'
+    style={styles.searchBtnImage}
+    />
+      </TouchableOpacity>
+    </View>
     </View>
   )
 }
