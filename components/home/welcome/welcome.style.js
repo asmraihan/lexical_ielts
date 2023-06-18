@@ -15,13 +15,14 @@ const styles = StyleSheet.create({
     fontFamily: FONT.bold,
     fontSize: SIZES.xLarge,
     color: COLORS.primary,
-    marginTop: 2,
+    marginTop: 8,
+    // marginLeft: 16,
   },
   searchContainer: {
     justifyContent: "center",
     alignItems: "center",
     flexDirection: "row",
-    marginTop: SIZES.large,
+    marginTop: SIZES.xSmall,
     height: 50,
   },
   searchWrapper: {
