@@ -22,11 +22,11 @@ const Vocabularies = () => {
         {loading ? (
           <ActivityIndicator size='large' color={COLORS.primary} />
         ) : error ? (
-          <Text >Something went wrong {data?.wordCount}</Text>
+          <Text >Something went wrong </Text>
         ) : (
           <FlatList
             //create some data
-            data={data}
+            data={data.words}
             renderItem={({item})=> (
               <WordCard
               item={item}

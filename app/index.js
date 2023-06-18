@@ -6,6 +6,13 @@ import { ScreenHeaderBtn, Welcome } from '../components'
 import Vocabularies from "../components/home/vocabularies/Vocabularies";
 const Home = () => {
     const router = useRouter();
+    const handleMenu = () => {
+        alert("Lexical IELTS is an advanced vocabulary app that helps you improve your vocabulary and prepare for IELTS exam.")
+    }
+    const handleProfile = () => {
+        router.push("https://github.com/asmraihan")
+    }
+
     return (
         <SafeAreaView style={{ flex: 1, backgroundColor: COLORS.lightWhite }}>
             <Stack.Screen
@@ -15,10 +22,10 @@ const Home = () => {
                     },
                     headerShadowVisible: false,
                     headerLeft: () => (
-                        <ScreenHeaderBtn iconUrl={icons.menu} dimension="60%" />
+                        <ScreenHeaderBtn handlePress={handleMenu} iconUrl={icons.menu} dimension="60%" />
                     ),
                     headerRight: () => (
-                        <ScreenHeaderBtn iconUrl={images.profile} dimension="100%" />
+                        <ScreenHeaderBtn handlePress={handleProfile} iconUrl={images.profile} dimension="100%" />
                     ),
                     headerTitle: ""
 

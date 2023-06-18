@@ -8,7 +8,10 @@ const WordCard = ({item}) => {
     // style={styles.container(item)}
     onPress={() => {}}
     >
-      <Text> text </Text>
+     <View style={styles.wordCardWrapper}>
+     <Text style={styles.wordCardInfo}>{item.word} :</Text>
+      <Text style={styles.wordCardInfo2}> {item.translation}</Text>
+     </View>
     </TouchableOpacity>
   )
 }

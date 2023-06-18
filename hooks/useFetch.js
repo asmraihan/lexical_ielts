@@ -5,7 +5,7 @@ const useFetch = () => {
     const [data, setData] = useState([]);
     const [loading, setLoading] = useState(false);
     const [error, setError] = useState(null);
-    console.log('all data',data)
+    // console.log('all data',data)
     const fetchData = async () => {
         setLoading(true);
         try {
