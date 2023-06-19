@@ -9,7 +9,7 @@ const useFetch = () => {
     const fetchData = async () => {
         setLoading(true);
         try {
-            const res = await fetch(`/assets/vocabularies.json`);
+            const res = await fetch(`https://raw.githubusercontent.com/asmraihan/lexical_ielts/main/assets/vocabularies.json`);
             const data = await res.json();
             setData(data);
             setLoading(false);

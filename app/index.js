@@ -7,7 +7,7 @@ import Vocabularies from "../components/home/vocabularies/Vocabularies";
 const Home = () => {
     const router = useRouter();
     const handleMenu = () => {
-        alert("Lexical IELTS is an advanced vocabulary app that helps you improve your vocabulary and prepare for IELTS exam.")
+        alert("Lexical IELTS is an advanced vocabulary app that helps you improve your vocabulary and prepare for IELTS exam.             \n Developed by Raihan             \n Version 1.0.0")
     }
     const handleProfile = () => {
         router.push("https://github.com/asmraihan")
